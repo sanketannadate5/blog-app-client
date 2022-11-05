@@ -1,13 +1,13 @@
 import Base from "../components/Base";
 const Home = () => {
-    return(
-        <Base>
-        <div>
+  return (
+    <Base>
+      <div>
         <h1>This is Home Page</h1>
         <p>Welcome to Home Page</p>
-        </div>
-        </Base>
-    );
+      </div>
+    </Base>
+  );
 };
 
 export default Home;
